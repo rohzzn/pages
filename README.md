@@ -4,6 +4,10 @@
 
 A Figma plugin that allows users to automatically create pages before starting the design process. This plugin is built using TypeScript and is designed to save time and streamline the design process.
 
+<br>
+
+[Live Site](https://www.figma.com/community/plugin/1106104074775818911/Pages)
+
 ## Features
 
 - Automatically creates pages with predefined templates
